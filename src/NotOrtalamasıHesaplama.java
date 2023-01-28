@@ -1,43 +1,58 @@
+import java.util.HashMap;
+import java.util.Iterator;
+import java.util.Map;
 import java.util.Scanner;
 
 public class NotOrtalamasıHesaplama {
   public static void main(String[] args){
 
-        int mat,fizik,kimya,turkce,tarih,muzik;
-        double sonuc;
+      Map<String,Integer> dersler = new HashMap<>();
+
+
+        double sonuc = 0.0;
 
         Scanner input = new Scanner(System.in);
 
         System.out.print("Matematik notunuz :");
-        mat = input.nextInt();
+        dersler.put("mat",input.nextInt());
 
         System.out.print("Fizik notunuz :");
-        fizik = input.nextInt();
+        dersler.put("fizik",input.nextInt());
 
         System.out.print("Kimya notunuz :");
-        kimya = input.nextInt();
+        dersler.put("kimya",input.nextInt());
 
         System.out.print("Türkçe notunuz :");
-        turkce = input.nextInt();
+        dersler.put("türkce",input.nextInt());
 
         System.out.print("Tarih notunuz :");
-        tarih = input.nextInt();
+        dersler.put("tarih",input.nextInt());
 
         System.out.print("Müzik notunuz :");
-        muzik = input.nextInt();
+        dersler.put("müzik",input.nextInt());
 
-        sonuc = (mat + fizik + kimya + turkce + tarih + muzik)/6 ;
+
+        for( Integer i : dersler.values()){
+
+          if(0 <= i && i <= 100){
+            sonuc += i ;
+          }
+
+        }
+
+
+         sonuc = sonuc/6 ;
 
         System.out.println("Ortalamanız : "+sonuc);
 
-        while(sonuc >= 60){
+        if(sonuc >= 55){
             System.out.println("Sınıfı geçtiniz..");
-            break;
+
         }
 
-        while(sonuc < 60){
+        else{
             System.out.println("Sınıfta kaldınız..");
-            break;
+
         }
 
 
