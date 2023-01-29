@@ -1,2 +1,2 @@
-# ATM
-Para çekme, yatırma,bakiye sorgulama vb. işlemler yapan ve yanlış kullanıcı bilgileri karşısında hata mesajı gösteren atm programı
+# EBOB - EKOK
+Kullanıcıdan alınan iki sayının for ve while döngülerini kullanarak farklı şekillerde EBOB VE EKOK hesaplamalarını yaptık.
