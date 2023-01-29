@@ -1,2 +1,2 @@
-# EBOB - EKOK
-Kullanıcıdan alınan iki sayının for ve while döngülerini kullanarak farklı şekillerde EBOB VE EKOK hesaplamalarını yaptık.
+# Min ve Max Bulma
+Java ile klavyeden girilen N tane sayma sayısından en büyük ve en küçük sayıları bulan ve bu sayıları ekrana yazan programı yazın.
