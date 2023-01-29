@@ -2,6 +2,8 @@ import java.util.Scanner;
 
 public class ArtikYilHesaplama {
     public static void main(String[] args){
+
+
         int yil ;
         boolean isArtik;
 
@@ -20,5 +22,6 @@ public class ArtikYilHesaplama {
         }
         else
             System.out.println(yil+" bir artık yıl değildir.");
+
     }
 }
