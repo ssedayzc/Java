@@ -1,2 +1,2 @@
-# Ters Üçgen
-Java ile basamak sayısının kullanıcıdan alınan ve döngüler kullanılarak, yıldızlar(*) ile ekrana ters üçgen çizen programı yazın.
+# 1-100 Arasındaki Asal Sayılar
+Java ile 1 - 100 arasındaki asal sayıları ekrana yazdıran programı yazınız.
