@@ -1,3 +1,6 @@
-# Basamak Sayıları Toplamı
+# Harmonik Seri
+Java ile girilen sayının harmonik serisini bulan program yazacağız.
 
-Bir sayının basamak sayılarının toplamını hesaplayan program
+Harmonik Seri Formülü :
+
+1 + (1/2) + (1/3)+ (1/4) + ... + (1/n)
