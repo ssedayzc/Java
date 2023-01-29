@@ -1,2 +1,2 @@
-# Sayıları Yazdırma
-Java döngüler ile girilen sayıya kadar olan 4 ve 5'in kuvvetlerini ekrana yazdıran programı yazıyoruz.
+# Kombinasyon Hesaplama
+Kullanıcının girdiği n,r değerleri ile faktöriyel ve permütasyonu kullanarak kombinasyon hesapladık.
