@@ -1,3 +1,2 @@
-# Yıldızlar ile desen oluşturma
-
-for döngüsü kullanarak yıldızlar ile baklava dilimi yazdıran program
+# ATM
+Para çekme, yatırma,bakiye sorgulama vb. işlemler yapan ve yanlış kullanıcı bilgileri karşısında hata mesajı gösteren atm programı
