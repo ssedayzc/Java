@@ -1,2 +1,2 @@
-# Kombinasyon Hesaplama
-Kullanıcının girdiği n,r değerleri ile faktöriyel ve permütasyonu kullanarak kombinasyon hesapladık.
+# Üs Alma
+Java ile kullanıcının girdiği değerler ile üslü sayı hesaplayan programı "For Döngüsü" kullanarak yapınız.
