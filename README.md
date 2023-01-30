@@ -1,2 +1,4 @@
-# Recursive Üs Alma 
+# Asal mı kontrolü (Recursive)
+
+
 
