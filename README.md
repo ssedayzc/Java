@@ -1,7 +1,3 @@
-# Palindrom Sayı
+# Recursive Fibonacci
 
-### Palindrom Sayı Nedir ?
-Palindromik sayı, iki taraftan okunduğu zaman okunuş yönüyle aynı olan sayılardır.
-
-Örnek: 1, 4, 8, 99, 101, 363, 4004, 9889....
-Kullanıcının girdiği sayıyı ters çevirip karşılaştırarak sonuca varırız.
+Döngü ile oluşturulmş fibonacci serisinin recursive haliyle ,kullanıcının girdiği elemanı bulan program.
