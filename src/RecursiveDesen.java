@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class RecursiveDesen {
 
-    
+
     static void recDesen(int sayi){
         final int start = sayi ;
 
