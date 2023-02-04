@@ -1,20 +1,5 @@
-# Öğrenci Bilgi Sistemi
-### Course Sınıfı Özellikleri :
+# Boks Maçı
+Java Sınıflar ile boks maçını simüle eden programı, ilk kimin dövüşe başlayacağını %50 olasılık ile hesaplayan sistemi entegre ederek yazdık.
 
-Nitelikler : name,code,prefix,note,Teacher
-Metotlar : Course() , addTeacher() , printTeacher()
-
-### Teacher Sınıfı Özellikleri :
-
-Nitelikler : name,mpno,branch
-Metotlar : Teacher()
-
-### Student Sınıfı Özellikleri :
-
-Nitelikler : name,stuNo,classes,course1,course2,course3,avarage,isPass
-Metotlar : Student(), addBulkExamNote(), isPass(), calcAvarage(), printNote()
-
-Öğrencilerin dersi ve sınıfı geçme durumları hesaplanailir.
-Her dersin ortalamaya etkisi farklıdır!
-
+Kullanıcın girdiği bilgiler ile tanımlanan iki boksör,birbirine vurarak hasar verir.Canı ilk 0 olan boksör kaybeder.
 
