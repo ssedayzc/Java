@@ -1,2 +1,2 @@
-# 
-Bir sayı dizisindeki tekrar eden çift sayıları belirten bir program
+# Dizi sıralama
+Elemanları kullanıcıdan alınan dizinin küçükten büyüğe sıralanması
