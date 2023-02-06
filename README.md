@@ -1,2 +1,2 @@
-# Matrisler
-Çok boyutlu diziler kullanılarak "yıldızlar" ile ekrana "B" harfi yazan programı yazınız.
+# 
+Bir sayı dizisindeki tekrar eden çift sayıları belirten bir program
