@@ -1,1 +1,1 @@
-# Dizi frekansı
+# Matrisin Tranpozu
