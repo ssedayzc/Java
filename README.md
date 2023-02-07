@@ -1,1 +1,1 @@
-# Sayı Tahmin Oyunu
+# Palindrom Kelimeler
